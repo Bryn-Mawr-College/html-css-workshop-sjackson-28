@@ -1,17 +1,15 @@
-h1 {color:rgb(19, 34, 84)}
-
-img {max-width: 300px}
-p{font-family: 'Times New Roman', Times, serif;font-style: normal;}
-body{background-color:lightblue;}
-
 <html>
-<head>
-<style>
-.center{
-    text-align: center;
-}
-</style>
-</head>
 <body>
+
+<ul>
+    <li><a href="home"</a></li>
+    <li><a href="news"</a></li>
+    <li><a href="contacts"</a></li>
+    <li><a href="fourth"</a></li>
+</ul>
+
+/<body>
+</html>
+
 
 <div class="center">
