@@ -5,3 +5,7 @@ h1 {color:rgb(19, 34, 84)}
 img {max-width: 300px}
 p{font-family: 'Times New Roman', Times, serif;font-style: normal;}
 body{background-color:lightblue;}
+
+.title{
+    margin: 30px;
+}
